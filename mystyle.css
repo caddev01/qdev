@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Lumanosimo);
+@import url(https://fonts.googleapis.com/css?family=Handlee);
+
+html{
+	background-color: #DEE6E6;
+	font-family: Handlee, Lumanosimo, verdans;
+}
+
+h1{
+	text-align: center;
+	font-size: 30px;
+	color: #E1E5E5;
+}
+
+.quizContainer{
+	margin: auto;
+	width: 65%;
+	min-height:450px ;
+	background-color: #050909;
+	color: #DEE6E6;
+	padding: 2px;
+	margin-top: 100px;
+	border-radius: 15px;
+	padding:10px 50px;
+}
+
+.nextButton{
+	text-align: center;
+	margin-top: 2px;
+}
+
+ul{
+	list-style: none;
+}
+
+.result{text-align: center;}
+
+.question, .choiceList, .nextButton{
+	font-size: 20px;
+}
+
+input{
+	margin-right: 10px;
+}
+
+
